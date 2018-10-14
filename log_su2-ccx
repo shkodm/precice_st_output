@@ -1,0 +1,8 @@
+CalculiX-adapter Version: 72783414579a06329ab9c7684434aa3eacb0bcdf HEAD
+SU2-adapter Version: 84dea5dd39f1521bd1b467540669bf799aeded4b refs/heads/v5.0.0
+tutorials Version: 54387c319e3cbee9cbf44032494e5bc6bcb8fc14 refs/pull/10/merge
+preCICE Version: 083f25a83cebc3b4f5b8483a7278bb02c40ac759 refs/tags/v1.2.0
+CalculiX version: 2.13
+SU2 version: 6.0.0
+Ubuntu version: 16.04
+System testing at Sun Oct 14 14:40:22 2018

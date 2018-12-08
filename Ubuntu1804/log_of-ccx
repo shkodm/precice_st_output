@@ -1,8 +1,8 @@
-OpenFOAM-adapter Version: 52c026dc073319c71ac22f604afd713d080f24ae refs/pull/47/head
+OpenFOAM-adapter Version: 2e29a6fa11459dba86dfed59bb19a1921490c573 refs/pull/50/head
 CalculiX-adapter Version: 0636cc23d4a7961f3def0ca49e0caf423a643770 refs/pull/6/head
-tutorials Version: c87d5276ce9373af4ff1a5acc82f4225fead749f refs/pull/12/head
+tutorials Version: 16a483945a755913a4e38e3513ee622394f89c82 refs/pull/14/merge
 preCICE Version: 365f3d31b037ec61a99b963b8fc14d7746e34620 refs/tags/v1.3.0
 OpenFOAM version: 5
 CalculiX version: 2.12
 Ubuntu version: 1804
-System testing at Sun Dec  2 12:48:54 2018
+System testing at Sat Dec  8 20:13:19 2018
